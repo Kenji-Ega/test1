@@ -5,6 +5,8 @@ import pandas as pd
 from PIL import Image
 import time
 st.sidebar.title("streamlit 入門")
+                 
+st.write("ゆいこさん　こんばんは")
 
 st.write("プログレスバーの表示")
 "start!!"
